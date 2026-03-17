@@ -2,7 +2,7 @@
  * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
  */
 
-//package com.mycompany.collectiontypecomparisondemo;
+package com.mycompany.collectiontypecomparisondemo;
 
 import java.util.ArrayList;
 import java.util.LinkedList;
